@@ -2,11 +2,7 @@
 
     {
 
-        vt: 'Cam',
-        yr: 2022,
-        vc: " comedy, drama, romance",
-        na: "The Next 365 Days",
-        iu: "https://image.tmdb.org/t/p/w500//6FsGeIp7heHm5eh4tIxTzHIRxmt.jpg",
+        "vt": 'Cam',
 
     },
   
